@@ -12,3 +12,5 @@ Face detection using python (3.7) and opencv-python library
 `python src/image-face-detect.py`
 
 `python src/webcam-face-detect.py`
+
+<img src="./output/webcam-face.png" height="300px">
