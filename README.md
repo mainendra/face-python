@@ -10,4 +10,5 @@ Face detection using python (3.7) and opencv-python library
 # To run from home directory
 
 `python src/image-face-detect.py`
+
 `python src/webcam-face-detect.py`
