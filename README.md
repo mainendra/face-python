@@ -1,4 +1,4 @@
-# face-python
+# Face detection
 Face detection using python (3.7) and opencv-python library
 
 # Dependencies
