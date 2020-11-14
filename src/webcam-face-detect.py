@@ -1,5 +1,7 @@
 import cv2
 
+print("Press `q` to exit")
+
 # Use preprocessed data for lookup
 face_cascade = cv2.CascadeClassifier('data/haarcascade_frontalface_default.xml')
 # Default webcam is at index 0
